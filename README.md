@@ -54,8 +54,11 @@ In this article, the following models are also utilized for comparison.
 
 # References
 We appreciate the following github repositories a lot for their valuable code base or datasets:
+
 [https://github.com/zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020)
+
 [https://github.com/thuml/Autoformer](https://github.com/thuml/Autoformer)
+
 [https://github.com/locuslab/TCN](https://github.com/locuslab/TCN)
 # Contact
 If you have any questions, feel free to contact Qianyi Shang through Email ([21000504@nue.eud.cn](21000504@nue.eud.cn)) or Github issues. Pull requests are highly welcomed!
