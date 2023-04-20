@@ -37,7 +37,7 @@ bash ./Effinformer.sh
 - Click on code and download zip
 - Upload the file on your google drive
 - Open the file with zip extractor in the drive
-- You can click open the file in [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_X7O2BkFLvqyCdZzDZvV2MB0aAvYALLC) and run the file only after the file is mounted in your drive
+- You can click open the file in [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) and run the file only after the file is mounted in your drive
 - All changes to the Prediction Length, epochs, dataset, etc can be made in the [Effinformer.py](https://github.com/SQY2021/Effinformer/) file
 - You may make changes in the data set used and target to be run
 
@@ -50,7 +50,8 @@ In this article, the following models are also utilized for comparison.
 - [x] [Informer](https://github.com/zhouhaoyi/Informer2020)
 - [x] [Transformer](https://github.com/Kyubyong/transformer)
 - [x] [Reformer](https://github.com/lucidrains/reformer-pytorch)
-- [x] [TCN](https://github.com/locuslab/TCN)
+- [x] [WCNN]()
+- [x] [LSTM]()
 
 # References
 We appreciate the following github repositories a lot for their valuable code base or datasets:
@@ -60,5 +61,11 @@ We appreciate the following github repositories a lot for their valuable code ba
 [https://github.com/thuml/Autoformer](https://github.com/thuml/Autoformer)
 
 [https://github.com/locuslab/TCN](https://github.com/locuslab/TCN)
+
+[https://github.com/OrigamiSL/TCCT2021-Neurocomputing-](https://github.com/OrigamiSL/TCCT2021-Neurocomputing-)
+
+[https://github.com/timeseriesAI/tsai](https://github.com/timeseriesAI/tsai)
+
+
 # Contact
 If you have any questions, feel free to contact Qianyi Shang through Email ([21000504@nue.eud.cn](21000504@nue.eud.cn)) or Github issues. Pull requests are highly welcomed!
