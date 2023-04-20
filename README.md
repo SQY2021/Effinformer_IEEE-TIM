@@ -36,7 +36,7 @@ bash ./Effinformer.sh
 - You may make changes in the data set used and target to be run
 
 # A Simple Example
-To demonstrate the model's prediction process, we utilize a subset of our data set consisting of 20,000 sampling points. This smaller-scale data set will allow us to effectively showcase the model's capabilities. See [Predict.ipynb](https://github.com/SQY2021/Effinformer/) for workflow.
+To demonstrate the model's prediction process, we utilize a subset of our data set consisting of 20,000 sampling points. This smaller-scale data set will allow us to effectively showcase the model's capabilities. See [Predict.ipynb](https://github.com/SQY2021/Effinformer/blob/main/Predict.ipynb) for workflow.
 
 # Baselines
 In this article, the following models are also utilized for comparison.
