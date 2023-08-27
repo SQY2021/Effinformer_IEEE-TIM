@@ -45,7 +45,7 @@ In this article, the following models are also utilized for comparison.
 - [x] [Transformer](https://github.com/Kyubyong/transformer)
 - [x] [Reformer](https://github.com/lucidrains/reformer-pytorch)
 - [x] [WCNN]()
-- [x] [LSTM]()
+- [x] [LSTMa]()
 
 # References
 We appreciate the following github repositories a lot for their valuable code base or datasets:
