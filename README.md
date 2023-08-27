@@ -4,9 +4,9 @@
 ![cuDNN 7.3.1](https://img.shields.io/badge/cudnn-7.3.1-green.svg?style=plastic)
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
-This is a GitHub repository for the project "[Data-Driven Modeling of a DC-DC Bidirectional Converter Using Efficient Self-Attention Network](https://)". The project aims to develop a data-driven model for a DC-DC bidirectional converter using an efficient self-attention network (Effinformer).
+This is a GitHub repository for the project "[Effinformer: A Deep Learning-Based Data-Driven Modeling of DC-DC Bidirectional Converters](https://)". The project aims to develop a data-driven model for a DC-DC bidirectional converter using an efficient self-attention network (Effinformer).
 
-We design a practical end-to-end DL framework named efficient [Informer](https://ojs.aaai.org/index.php/AAAI/article/view/17325) (Effinformer), which leverages a sparse self-attention mechanism to reduce the computational cost of the network while improving accuracy and efficiency significantly. Specifically, the distilling blocks based on dilated causal convolutional layers are constructed to obtain a larger receptive field and extract long-term historical information. To mine potential trend features and expedite computation, we suggest an alternative approach that replaces the original multi-head attention in the decoder of Informer.
+We design a practical end-to-end DL framework named efficient [Informer](https://ojs.aaai.org/index.php/AAAI/article/view/17325) (Effinformer), which leverages a sparse self-attention mechanism to reduce the computational cost of the network while improving accuracy and efficiency significantly. Specifically, the distilling blocks based on dilated causal convolutional layers are constructed to obtain a larger receptive field and extract long-term historical information. To mine potential trend features and expedite computation, we suggest an alternative approach that replaces the original multi-head attention in the decoder of Informer. Finally, an appropriate gated linear unit (GLU) is chosen to improve prediction accuracy.
 
 # Requirements
 - matplotlib == 3.1.1
