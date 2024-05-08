@@ -8,6 +8,7 @@ This is a GitHub repository for the project "[Effinformer: A Deep Learning-Based
 
 We design a practical end-to-end DL framework named efficient Informer ([Effinformer](https://ieeexplore.ieee.org/abstract/document/10285031)), which leverages a sparse self-attention mechanism to reduce the computational cost of the network while improving accuracy and efficiency significantly. Specifically, the distilling blocks based on dilated causal convolutional layers are constructed to obtain a larger receptive field and extract long-term historical information. To mine potential trend features and expedite computation, we suggest an alternative approach that replaces the original multi-head attention in the decoder of Informer. Finally, an appropriate gated linear unit (GLU) is chosen to improve prediction accuracy.
 
+![image](https://github.com/SQY2021/Effinformer/assets/81226844/f524aaee-bbba-4b0d-a8f3-2b4cb20b0484)
 
 Fig. 5. Structure diagram of the encoder stacking three attention blocks and two dilated causal convolution layers.
 
