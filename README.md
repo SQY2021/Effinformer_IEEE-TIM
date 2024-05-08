@@ -61,5 +61,18 @@ We appreciate the following github repositories a lot for their valuable code ba
 [https://github.com/timeseriesAI/tsai](https://github.com/timeseriesAI/tsai)
 
 
+# Citation
+```
+@article{Shang2023Effinformer,
+  title={Effinformer: A Deep-Learning-Based Data-Driven Modeling of DC–DC Bidirectional Converters},
+  author={Shang Q, Xiao F, Fan Y, et al.},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={72},
+  pages={1-13},
+  year={2023},
+  publisher={IEEE}
+}
+
+```
 # Contact
 If you have any questions, feel free to contact Qianyi Shang through Email ([21000504@nue.eud.cn](21000504@nue.eud.cn)) or Github issues. Pull requests are highly welcomed!
