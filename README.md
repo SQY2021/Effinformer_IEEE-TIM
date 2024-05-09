@@ -42,6 +42,8 @@ bash ./Effinformer.sh
 # A Simple Example
 To demonstrate the model's prediction process, we utilize a subset of our data set consisting of 20,000 sampling points. This smaller-scale data set will allow us to effectively showcase the model's capabilities. See [Predict.ipynb](https://github.com/SQY2021/Effinformer/blob/main/Predict.ipynb) for workflow.
 
+[^back to top](#top)
+
 # Baselines
 In this article, the following models are also utilized for comparison.
 - [x] [Autoformer](https://github.com/thuml/Autoformer)
@@ -80,3 +82,5 @@ We appreciate the following github repositories a lot for their valuable code ba
 ```
 # Contact
 If you have any questions, feel free to contact Qianyi Shang through Email ([21000504@nue.eud.cn](21000504@nue.eud.cn)) or Github issues. Pull requests are highly welcomed!
+
+[^back to top](#top)
